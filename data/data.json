@@ -3026,5 +3026,11 @@
     "movie": "Men in Black",
     "type": "movie",
     "year": 2019
+  },
+   {
+    "quote": "Every man dies, not every man really lives",
+    "movie": "Braveheart",
+    "type": "Action",
+    "year": 1995
   }
 ]
